@@ -1,0 +1,26 @@
+@media (min-width: 768px) {
+    .navbar-collapse {
+        border-top: none;
+    }
+
+    .home-subtitle {
+        font-size: 44px;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar-link {
+        font-size: 14px;
+    }
+
+    .slider-txt {
+        padding-right: 100px;
+        padding-left: 100px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .home-subtitle {
+        font-size: 60px;
+    }
+}
