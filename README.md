@@ -2,7 +2,7 @@
 
 A clean and responsive personal portfolio website built with **HTML5**, **CSS3**, and **Bootstrap**. This project is ideal for showcasing your skills, work, and personal brand online.
 
-[![Portfolio Preview](https://res.cloudinary.com/dedqtpla9/image/upload/Daniels_profile_elbvpg.png)](https://nayeragad.github.io/Daniels_portfolio/)
+[![Portfolio Preview](https://res.cloudinary.com/dedqtpla9/image/upload/Daniels_profile_kml2bs.png)](https://nayeragad.github.io/Daniels_portfolio/)
 
 ---
 
